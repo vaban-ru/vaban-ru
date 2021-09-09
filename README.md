@@ -1,7 +1,7 @@
 ### Привет 👋, меня зовут Владимир Бандуристов.
 
 Мне 30, живу в Москве, разрабатываю фронтенд в
-~~[SEO Cocktail](https://seococktail.ru/)~~ → ~~[RANG](https://rang56.ru/)~~ → [Webit](https://www.webit.ru/)
+~~[SEO Cocktail](https://seococktail.ru/)~~ → ~~[RANG](https://rang56.ru/)~~ → ~~[Webit](https://www.webit.ru/)~~
 
 ## Технологии (Frontend)
 
