@@ -31,6 +31,6 @@
 * Называю функции и классы понятными не только для себя именами;
 * Комментирую код не только ради комментариев.
 
-|![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaban-ru&show_icons=true&theme=vue)     |[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaban-ru&layout=compact)     |
+|![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaban-ru&show_icons=true&theme=vue)     |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaban-ru&layout=compact)     |
 |-----|-----|
 
