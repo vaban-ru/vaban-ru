@@ -3,7 +3,7 @@
 Мне 31, живу в Москве, разрабатываю фронтенд в
 ~~[SEO Cocktail](https://seococktail.ru/)~~ → ~~[RANG](https://rang56.ru/)~~ → ~~[Webit](https://www.webit.ru/)~~ → ~~[Норвик Банк](https://norvikbank.ru/)~~ → Swift X
 
-Автор крупнейшего русскоязычного Telegram-канала о Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
+Автор Telegram-канала о Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
 
 ## Технологии (Frontend)
 
