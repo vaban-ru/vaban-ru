@@ -1,34 +1,32 @@
-### Привет 👋, меня зовут Владимир Бандуристов.
+### Hi👋 my name is Vladimir Banduristov.
 
-Мне 31, живу в Москве, разрабатываю фронтенд в
+ am 31, living in Moscow, developing a frontend in
 ~~[SEO Cocktail](https://seococktail.ru/)~~ → ~~[RANG](https://rang56.ru/)~~ → ~~[Webit](https://www.webit.ru/)~~ → ~~[Норвик Банк](https://norvikbank.ru/)~~ → Swift X
 
-Автор Telegram-канала о Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
+Author of a Telegram channel about Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
 
-## Технологии (Frontend)
+* Well versed in Vue.js 2, slightly less well versed in Vue.js 3, Vuex, Nuxt, with extensive experience in commercial development (3+ years);
+* Extensive experience in commercial cross-browser and adaptive HTML, CSS layout (8+ years);
+* Extensive experience with LESS, SASS preprocessors (5+ years);
+* Able to set up Gulp, Parcel, Webpack and scripts in npm/yarn, almost without swearing;
+* Trying to optimize Frontend for faster loading.
 
-* Хорошо владею Vue,js 2, чуть хуже Vue.js 3, Vuex, Nuxt, имею большой опыт в коммерческой разработке (3+ лет);
-* Большой опыт в коммерческой кросс-браузерной и адаптивной верстке HTML, CSS (8+ лет);
-* Большой опыт работы с препроцессорами LESS, SASS (5+ лет);
-* Способен настроить Gulp, Parcel, Webpack и скрипты в npm/yarn, почти не матерясь;
-* Стараюсь оптимизировать Frontend для более быстрой загрузки.
+## Technology (Backend)
 
-## Технологии (Backend)
+* Basic knowledge of PHP, MySQL, Smarty templating engine;
+* Knows the basics of NodeJs;
+* Can set up basic CI/CD pipelines for Vue.js and Nuxt
+* At a basic level familiar with the following CMS: Wordpress, Joomla, Drupal, Bitrix, Netcat, Diafan;
 
-* На базовом уровне владею PHP, MySQL, шаблонизатором Smarty;
-* Знаком с основами NodeJs;
-* Могу настроить базовые пайплайны CI/CD для Vue.js и Nuxt
-* На базовом уровне знаком со следующими CMS: Wordpress, Joomla, Drupal, Bitrix, Netcat, Diafan;
+## Design
 
-## Дизайн
+* Proficient in Photoshop, Figma, Avocode, Sketch at editing and layout slicing level;
+* Basic skills in 3ds Max, Corona Render.
 
-* Владею Photoshop, Figma, Avocode, Sketch на уровне правок и нарезки макетов;
-* Имею базовые навыки 3ds Max, Corona Render.
+## Other skills
 
-## Другие навыки
-
-* Много читаю, имею опыт в менторстве, постоянно учусь сам и могу обучать других;
-* Стараюсь посещать профильные и не только конференции, митапы.
-* Внимателен к мелочам в своем и чужом коде;
-* Называю функции и классы понятными не только для себя именами;
-* Комментирую код не только ради комментариев.
+* I read a lot, have experience in mentorship, constantly learn myself and can teach others;
+* Attend conferences and other conferences, meetups.
+* Attentive to details in my own and other people's code;
+* I call functions and classes with names I understand not only for myself but also for others; 
+* I comment code not only for comments' sake.
