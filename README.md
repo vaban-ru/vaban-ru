@@ -28,7 +28,7 @@ Author of a Telegram channel about Vue.js [Душный Вуй](https://t.me/stu
 ## Other skills
 
 * I read a lot, have experience in mentorship, constantly learn myself and can teach others;
-* Attend conferences and other conferences, meetups.
+* Attend conferences and other conferences, meetups;
 * Attentive to details in my own and other people's code;
 * I call functions and classes with names I understand not only for myself but also for others; 
 * I comment code not only for comments' sake.
