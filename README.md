@@ -5,6 +5,8 @@ I am 32, living in Moscow, developing a frontend in
 
 Author of a Telegram channel about Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
 
+Creator of [Border Collie Pedigree Database](https://bc-db.ru/) 
+
 ## Technology (Frontend)
 
 * Well versed in Vue.js 2, slightly less well versed in Vue.js 3, Vuex, Nuxt, with extensive experience in commercial development (3+ years);
