@@ -1,6 +1,6 @@
 ### Hi👋 my name is Vladimir Banduristov.
 
-I am 32, living in Moscow, developing a frontend in
+Living in Moscow, developing a frontend in
 ~~[SEO Cocktail](https://seococktail.ru/)~~ → ~~[RANG](https://rang56.ru/)~~ → ~~[Webit](https://www.webit.ru/)~~ → ~~[Норвик Банк](https://norvikbank.ru/)~~ → [Swift X](https://www.swiftx.ru/)
 
 Author of a Telegram channel about Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
