@@ -7,6 +7,8 @@ Author of a Telegram channel about Vue.js [Душный Вуй](https://t.me/stu
 
 Creator of [Border Collie Pedigree Database](https://bc-db.ru/) 
 
+Creator of [Book Track - reading tracker](https://play.google.com/store/apps/details?id=ru.book.track.app&hl=en_US)
+
 ## Technology (Frontend)
 
 * Well versed in Vue.js 2, slightly less well versed in Vue.js 3, Vuex, Nuxt, with extensive experience in commercial development (3+ years);
