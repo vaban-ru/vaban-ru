@@ -1,38 +1,40 @@
-### Hi👋 my name is Vladimir Banduristov.
+### Hi 👋 My name is Vladimir Banduristov.
 
-Living in Moscow, team-lead frontend in
+Based in Moscow, I’m a Frontend Team Lead with experience across product, agency, banking, and technology companies:
+
 ~~[SEO Cocktail](https://seococktail.ru/)~~ → ~~[RANG](https://rang56.ru/)~~ → ~~[Webit](https://www.webit.ru/)~~ → ~~[Норвик Банк](https://norvikbank.ru/)~~ → ~~[Swift X](https://www.swiftx.ru/)~~ → beeline
 
-Author of a Telegram channel about Vue.js [Душный Вуй](https://t.me/stuffy_vuejs)
+Author of the Vue.js Telegram channel [Душный Вуй](https://t.me/stuffy_vuejs)
 
-Creator of [Border Collie Pedigree Database](https://bc-db.ru/) 
+Creator of [Border Collie Pedigree Database](https://bc-db.ru/)
 
 Creator of [Shagoved Quest](https://shagoved-quest.ru/)
 
 ## Technology (Frontend)
 
-* Well versed in Vue.js 2, slightly less well versed in Vue.js 3, Vuex, Nuxt, with extensive experience in commercial development (3+ years);
-* Extensive experience in commercial cross-browser and adaptive HTML, CSS layout (8+ years);
-* Extensive experience with LESS, SASS preprocessors (5+ years);
-* Able to set up Gulp, Parcel, Webpack and scripts in npm/yarn, almost without swearing;
-* Trying to optimize Frontend for faster loading.
+* Strong expertise in Vue.js, Vuex, and Nuxt, with solid commercial development experience
+* 8+ years of commercial experience in cross-browser, responsive HTML/CSS development
+* Extensive hands-on experience with LESS and SASS
+* Confident in setting up and maintaining frontend build tools and workflows, including Gulp, Parcel, Webpack, and npm/yarn scripts
+* Focused on frontend performance and optimization for faster, smoother user experiences
 
 ## Technology (Backend)
 
-* Basic knowledge of PHP, MySQL, Smarty templating engine;
-* Knows the basics of NodeJs;
-* Can set up basic CI/CD pipelines for Vue.js and Nuxt
-* At a basic level familiar with the following CMS: Wordpress, Joomla, Drupal, Bitrix, Netcat, Diafan;
+* Working knowledge of PHP, MySQL, and Smarty
+* Familiar with Node.js fundamentals
+* Able to set up basic CI/CD pipelines for Vue.js and Nuxt projects
+* Experience working with CMS platforms such as WordPress, Joomla, Drupal, Bitrix, Netcat, and Diafan
 
 ## Design
 
-* Proficient in Photoshop, Figma, Avocode, Sketch at editing and layout slicing level;
-* Basic skills in 3ds Max, Corona Render.
+* Comfortable working with Photoshop, Figma, Avocode, and Sketch for UI preparation, asset slicing, and layout support
+* Additional experience with 3ds Max and Corona Render
 
-## Other skills
+## Other Skills
 
-* I read a lot, have experience in mentorship, constantly learn myself and can teach others;
-* Attend conferences and other conferences, meetups;
-* Attentive to details in my own and other people's code;
-* I call functions and classes with names I understand not only for myself but also for others; 
-* I comment code not only for comments' sake.
+* Strong mentoring mindset with the ability to support, teach, and grow other developers
+* Constantly learning and expanding both technical and product thinking
+* Regularly attend conferences and meetups to stay connected with the industry
+* Attentive to detail in both my own code and team code
+* Write clear, understandable names for functions and classes to keep code maintainable
+* Use comments thoughtfully, where they add real value and context
